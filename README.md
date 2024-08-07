@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Music Player website
 
 This is a website similar to Spotify. On this website, we can play and pause the songs. We can also move to previous and next songs. I used HTML which used to build the structure of this website, CSS which is used for styling, and JavaScript which is used for functionality and I linked them to complete this project.
 
